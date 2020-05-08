@@ -2,25 +2,25 @@
 
 ## Outline
 
+- Background
+
 - Dataset Introduction
 
 - EDA
 
 - Model
 
-- CNN
-
-- Insights
+- Front End
 
 - Further Exploration
 
 ## Project Goal
 
-The goal of this project is to correctly predict a letter from the American Sign Language alphabet from an image of a hand gesture. This includes all letters expect for 'J' and 'Z' becasue those signs require movement. 
+The goal of this project is to create a content-based item-to-item recommendation system for books. 
 
-## Data Collection
+## Data Introduction
 
-The data was collected from Kaggle, originally uploaded by Kaggle account tecperson 2018 (https://www.kaggle.com/datamunge/sign-language-mnist). The data is in CSV files and each row represents one image and each colomn represents the grey scale for a single pixel of that image. Turning each row into a matrix we can generate images size 28X28. The files are already split into training and test sets. The training set contains 27455 images and the testing set has 7172 images. 
+The data was collected from Figshare, originally web scrapped from audible.com by Figshare account XinYuan Wang 2020. The data obtained 2 CSV files which covers all released books in the second half year of 2019. Important features in data includes book title, book author, book genre and book description.The files contain approximately 30,000 observations. 
 
 ## EDA
 
