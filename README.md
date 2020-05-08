@@ -124,11 +124,9 @@ The graphic below is an example image transfered from training set csv.
  
  ## Further Exploration
  
-- Use larger pictures 
+- Enlarge the database to make recommendations more precise
 
-- Use a heat map to show actvation features on an image
+- Use A/B testing to examine recommendation system performances
 
-- Implement pre-trained data to increase our accuracy
-
-- Involve data augmentation to see if we can increase our accuracy
+- Create a user-friendly searching environment by returning recommendations based on the closest input 
 
