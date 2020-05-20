@@ -24,7 +24,7 @@ The data was collected from Figshare, originally web scrapped from audible.com b
 
 ## EDA
 
-The graphic below shows distributions of genres.
+The graphic below shows distribution of each genre.
 ![Distribution_of_genres.png](Pictures/Distribution_of_genres.png)
 
 The graphic below shows distributions of letters in the test set.
