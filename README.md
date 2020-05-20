@@ -30,13 +30,17 @@ The graphic below shows distribution of each genre.
 The graphic below shows average description word counts of each genre.
 ![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
 
-The graphic below is the top 30 frequent words in 1000 randomly chosed samples with no limitation.
+The graphic below shows the top 30 frequent words in 1000 randomly chosed samples with no limitation.
 
 ![Most_frequent_words_in_1000_samples_(original).png](Pictures/Most_frequent_words_in_1000_samples_(original).png)
 
-The graphic below is the top 30 frequent words in 1000 randomly chosed samples captures noun only.
+The graphic below shows the top 30 frequent words in 1000 randomly chosed samples captures noun only.
 
 ![Most_frequent_words_in_1000_samples_(noun_only).png](Pictures/Most_frequent_words_in_1000_samples_(noun_only).png)
+
+The graphic below shows the different top 20 frequent nouns between fiction and nonfiction.
+
+![Most_frequent_words_in_fiction_vs_nonfiction.png](Pictures/Most_frequent_words_in_fiction_vs_nonfiction.png)
 
 ## Data Prepping
 
