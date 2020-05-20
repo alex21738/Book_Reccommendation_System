@@ -87,3 +87,6 @@ alt="Front End Demonstration" width="240" height="180" border="10" /></a>
 
 - Create a user-friendly searching environment by returning recommendations based on the closest input 
 
+## Powerpoint Link
+
+- https://docs.google.com/presentation/d/1wbjuVWIcBha6r8QYgq8sT3KRWGvLQbgOvF6AJrtOs3M/edit?usp=sharing
