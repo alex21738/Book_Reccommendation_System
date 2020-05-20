@@ -74,7 +74,6 @@ The graphic below shows the different word cloud between fiction and nonfiction.
  target="_blank"><img src="https://youtu.be/maAx_2QrXkY" 
 alt="Front End Demonstration" width="240" height="180" border="10" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/maAx_2QrXkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## Further Exploration
  
