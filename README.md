@@ -49,93 +49,37 @@ The graphic below shows the different word cloud between fiction and nonfiction.
 
 ## Data Prepping
 
-- Create labels for both training set and testing set.
+- Remove HTML signs by Regex before tokenozed each word.
 
-- Turn both training set and testing set into matrix(reshape), flatten, and standardize(divide by 255).
+- Create function for NLP to filter noun only in book descriptions.
 
-- Split the training set into training and validating sets.
+## Model
 
-- Set number of classes to 25 (26 letters - 2(no J,Z) +1(label))
-
-- Trun train_label, validate_label into single row matrixes.
-
-## MLP
-
-### Sigmoid
+### Cosine Similarity
 
 - Test set Accuracy: 0.29, Epochs = 15
 
 ![acc_sigmoid.png](Pictures/acc_sigmoid.png)
 
-### Softmax
+### Euclidean Similarity
 
 - Test set Accuracy: 0.59, Epochs = 15
 
 ![acc_softmax.png](Pictures/acc_softmax.png)
 
-### Hypertuned Softmax
+### Spacy
 
 - Test set Accuracy: 0.63, Epochs = 15
 
 ![acc_hypertuned_softmax.png](Pictures/acc_hypertuned_softmax.png)
-
-## CNN 2D
-
-- Adopt 3 layer convolution 2D and Maxpooling 2D
-
-- Dropout 10% of observations
-
-- Save model for future usage
-
-- Test set accuracy: 0.81, Epochs = 18
-
-![acc_cnn.png](Pictures/acc_cnn.png)
-
-## Extracting Feature Map
-
-- Extract model layer outputs
-
-- Create a model for displaying the feature maps
-
-- Extract Layer Names for Labelling
-
-- Post-process the feature to make it visually palatable
+  
+## Insightful Analysis
  
- The graphics below show the transformation of Conv2D --> Max Pooling2D for each 3 layers.
+- 'R', 'T', and 'V' were the most miss predicted
+- Other signs were incorrectly predicted as 'U' and 'T' most often
+![amer_sign2.png](Pictures/amer_sign2.png)
  
- - Layer 1:
- 
- ![Conv2D_1.png](Pictures/Conv2D_1.png)
- ![Max_Pooling2D_1.png](Pictures/Max_Pooling2D_1.png)
- 
- - Layer 2:
- 
- ![Conv2D_2.png](Pictures/Conv2D_2.png)
- ![Max_Pooling2D_2.png](Pictures/Max_Pooling2D_2.png)
- 
- - Layer 3:
- 
- ![Conv2D_3.png](Pictures/Conv2D_3.png)
- ![Max_Pooling2D_3.png](Pictures/Max_Pooling2D_3.png)
- 
- ## Confusion Matrix
- 
- - Create a 24X24 confusion matrix for each letter.
- 
- - Calculate False Nagative error % to get top letters most misclassified to other letters.
- 
- - Calculate False Positive error % to get top letters most misclassified by other letters.
- 
- The graphic below shows the confusion matrix.
- ![confusion_matrix.png](Pictures/confusion_matrix.png)
- 
- ## Insightful Analysis
- 
- - 'R', 'T', and 'V' were the most miss predicted
- - Other signs were incorrectly predicted as 'U' and 'T' most often
- ![amer_sign2.png](Pictures/amer_sign2.png)
- 
- ## Further Exploration
+## Further Exploration
  
 - Enlarge the database to make recommendations more precise
 
