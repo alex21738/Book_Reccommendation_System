@@ -44,7 +44,7 @@ The graphic below shows the different top 20 frequent nouns between fiction and 
 
 The graphic below shows the different word cloud between fiction and nonfiction.
 
-![Fiction_word_cloud.png](Pictures/Fiction_word_cloud.png.png)
+![Fiction_word_cloud.png](Pictures/Fiction_word_cloud.png)
 
 ![Nonfiction_word_cloud.png](Pictures/Nonfiction_word_cloud.png.png)
 
