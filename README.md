@@ -25,7 +25,7 @@ The data was collected from Figshare, originally web scrapped from audible.com b
 ## EDA
 
 The graphic below shows distributions of letters in the training set.
-![Distributions_of_letters_in_training_set.png](Pictures/Distributions_of_letters_in_training_set.png)
+![Average Description Word Count By Genre.png](Pictures/Average Description Word Count By Genre.png)
 
 The graphic below shows distributions of letters in the test set.
 ![Distributions_of_letters_in_test_set.png](Pictures/Distributions_of_letters_in_test_set.png)
