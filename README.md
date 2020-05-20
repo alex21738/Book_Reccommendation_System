@@ -61,14 +61,18 @@ The graphic below shows the different word cloud between fiction and nonfiction.
 
 ### Spacy
 
+- Accuracy results: Cosine similarity >= Spacy >> Euclidean similarity
   
 ## Insightful Analysis
+
+- Adopt Gensim corpus model
  
 - Choose words only shown 30 times or more
 
 - Remove words shown more than 50% or more
 
 ## Front End Video
+- Click the picture below to see how book recommendation system works on Youtube
 
 <a href="https://youtu.be/maAx_2QrXkY"
  target="_blank"><img src="https://bookishivy.files.wordpress.com/2015/09/book-recs.png?w=500&h=200&crop=1" 
