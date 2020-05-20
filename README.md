@@ -24,11 +24,11 @@ The data was collected from Figshare, originally web scrapped from audible.com b
 
 ## EDA
 
-The graphic below shows distributions of letters in the training set.
+The graphic below shows distributions of genres.
 ![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
 
 The graphic below shows distributions of letters in the test set.
-![Distributions_of_letters_in_test_set.png](Pictures/Distributions_of_letters_in_test_set.png)
+![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
 
 The graphic below is an example image transfered from training set csv.
 
