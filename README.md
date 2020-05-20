@@ -25,7 +25,7 @@ The data was collected from Figshare, originally web scrapped from audible.com b
 ## EDA
 
 The graphic below shows distributions of genres.
-![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
+![Distribution_of_genres.png](Pictures/Distribution_of_genres.png)
 
 The graphic below shows distributions of letters in the test set.
 ![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
