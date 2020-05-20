@@ -30,9 +30,13 @@ The graphic below shows distribution of each genre.
 The graphic below shows average description word counts of each genre.
 ![Average_description_word_count_by_genre.png](Pictures/Average_description_word_count_by_genre.png)
 
-The graphic below is an example image transfered from training set csv.
+The graphic below is the top 30 frequent words in 1000 randomly chosed samples with no limitation.
 
-![example_image.png](Pictures/example_image.png)
+![Most_frequent_words_in_1000_samples_(original).png](Pictures/Most_frequent_words_in_1000_samples_(original).png)
+
+The graphic below is the top 30 frequent words in 1000 randomly chosed samples captures noun only.
+
+![Most_frequent_words_in_1000_samples_(noun_only).png](Pictures/Most_frequent_words_in_1000_samples_(noun_only).png)
 
 ## Data Prepping
 
