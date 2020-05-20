@@ -42,6 +42,11 @@ The graphic below shows the different top 20 frequent nouns between fiction and 
 
 ![Most_frequent_words_in_fiction_vs_nonfiction.png](Pictures/Most_frequent_words_in_fiction_vs_nonfiction.png)
 
+The graphic below shows the different word cloud between fiction and nonfiction.
+
+![Fiction_word_cloud.png](Pictures/Fiction_word_cloud.png.png)
+![Nonfiction_word_cloud.png](Pictures/Nonfiction_word_cloud.png.png)
+
 ## Data Prepping
 
 - Create labels for both training set and testing set.
