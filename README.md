@@ -57,27 +57,20 @@ The graphic below shows the different word cloud between fiction and nonfiction.
 
 ### Cosine Similarity
 
-- Test set Accuracy: 0.29, Epochs = 15
-
-![acc_sigmoid.png](Pictures/acc_sigmoid.png)
-
 ### Euclidean Similarity
-
-- Test set Accuracy: 0.59, Epochs = 15
-
-![acc_softmax.png](Pictures/acc_softmax.png)
 
 ### Spacy
 
-- Test set Accuracy: 0.63, Epochs = 15
-
-![acc_hypertuned_softmax.png](Pictures/acc_hypertuned_softmax.png)
   
 ## Insightful Analysis
  
-- 'R', 'T', and 'V' were the most miss predicted
-- Other signs were incorrectly predicted as 'U' and 'T' most often
-![amer_sign2.png](Pictures/amer_sign2.png)
+- Choose words only shown 30 times or more
+
+- Remove words shown more than 50% or more
+
+## Front End
+
+
  
 ## Further Exploration
  
