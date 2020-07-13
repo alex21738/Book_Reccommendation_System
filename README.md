@@ -81,7 +81,7 @@ alt="Front End Demonstration" width="240" height="180" border="10" /></a>
  
 ## Further Exploration
  
-- Enlarge the database to make recommendations more precise
+- Enlarge the database to be more precise on making recommendations
 
 - Use A/B testing to examine recommendation system performances
 
