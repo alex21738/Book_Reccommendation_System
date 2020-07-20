@@ -83,7 +83,7 @@ alt="Front End Demonstration" width="240" height="180" border="10" /></a>
  
 - Enlarge the database to be more precise on making recommendations
 
-- Use A/B testing to examine recommendation system performances
+- Use A/B test to examine recommendation system performances
 
 - Create a user-friendly searching environment by returning recommendations based on the closest input 
 
