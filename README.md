@@ -34,7 +34,7 @@ The graphic below shows the top 30 frequent words in 1000 randomly chosed sample
 
 ![Most_frequent_words_in_1000_samples_(original).png](Pictures/Most_frequent_words_in_1000_samples_(original).png)
 
-The graphic below shows the top 30 frequent words in 1000 randomly chosed samples captures noun only.
+The graphic below shows the top 30 frequent words in 1000 randomly chosed samples which captures only nouns.
 
 ![Most_frequent_words_in_1000_samples_(noun_only).png](Pictures/Most_frequent_words_in_1000_samples_(noun_only).png)
 
