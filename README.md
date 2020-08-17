@@ -67,9 +67,9 @@ The graphic below shows the different word cloud between fiction and nonfiction.
 
 - Adopt Gensim corpus model
  
-- Choose words only shown 30 times or more
+- Choose words only show 30 times or more
 
-- Remove words shown more than 50% or more
+- Remove words show more than 50% 
 
 ## Front End Video
 - Click the picture below to see how book recommendation system works on Youtube
