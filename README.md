@@ -16,7 +16,7 @@
 
 ## Project Goal
 
-The goal of this project is to create a content-based item-to-item recommendation system for books. 
+The goal of this project is to create a content-based item-to-item recommendation system for books(P13N). 
 
 ## Data Introduction
 
