@@ -1,4 +1,4 @@
-# Final-Project-Rec-System
+# Final-Project-Recommendation-System
 
 ## Outline
 
