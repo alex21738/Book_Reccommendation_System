@@ -10,7 +10,7 @@
 
 - Model
 
-- Front End
+- Front End Video
 
 - Further Exploration
 
